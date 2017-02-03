@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Project worked upon as part of Edureka certification
+Project worked upon for analysis of sentiment in twitter data
