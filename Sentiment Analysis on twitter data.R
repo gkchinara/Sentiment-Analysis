@@ -40,7 +40,7 @@ class(nfl_Corpus_tr)
 nfl_Corpus_tr=tm_map(nfl_Corpus_tr,PlainTextDocument)
 nfl_Corpus_tr=tm_map(nfl_Corpus_tr, content_transformer(tolower))
 #######################################################################
-#Creation of document term matrix
+#Creation of document term matrix 
 #######################################################################
 dtm=DocumentTermMatrix(nfl_Corpus_tr)
 dim(dtm)
