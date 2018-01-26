@@ -1,4 +1,4 @@
-#twitter text clustering Classs6
+#twitter text clustering
 install.packages("tm")#text-mining
 library(tm)
 install.packages("twitteR")
